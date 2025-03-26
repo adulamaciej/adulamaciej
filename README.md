@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adulamaciej
 - 👀 I’m interested in learning Java and it's ecosystem
-- 🌱 I'm currently learning microservices and deepening my knowledge in Java 
+- 🌱 I'm currently deepening my knowledge and practical application of Java in Spring Boot.
 
 <!---
 adulamaciej/adulamaciej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
