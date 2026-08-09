@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adulamaciej
 - 👀 I’m a student at the Polish-Japanese Academy of Information Technology, interested in machine learning.
 - In my github account you can find both Java repos (older) and Machine Learning/Data Science repos (currently).
-- I'm passionate about things related to data like data analysis, data science/ML
+- I'm passionate about data and everything around it like Data Analysis, Data Science, LLM, Machine Learning and AI.
 - Main Unsupervised Data Science project: Customer-Segmentation-K-Means
 - Main Supervised Data Science project: Loan-Repayment-Prediction (kaggle competition)
 - Main Agentic AI project: LegalMind
