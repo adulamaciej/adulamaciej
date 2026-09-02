@@ -4,7 +4,7 @@
 - I'm passionate about data and everything around it like Data Analysis, Data Science, LLM, Machine Learning and AI.
 - Main Unsupervised Data Science project: Customer-Segmentation-K-Means
 - Main Supervised Data Science project: Loan-Repayment-Prediction (kaggle competition)
-- Main Agentic AI project: LegalMind
+- Main Agentic AI project: LegalMind and CiteGuard
 - Main Java project: Driver-and-Fleet-Management-Application (comprehensive backend project - developed earlier)
   
 
